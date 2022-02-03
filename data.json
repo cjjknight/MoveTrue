@@ -11,7 +11,7 @@
         "hour": 12,
         "minute": 0,
         "description": "<h3 style='text-align:center'> Simple exercises<br>Life-long results </h2></div></div> <p>If you think about it, the way we want to move our bodies is not all that different from the way we want to move through life: strong from the core, fully aware, flexible in the face of change, balanced from within, graceful under pressure, poised to make an impression, confident in our abilities, and free to do as we wish.</p><p><em>What if I told you there was a fitness program that could help you achieve all of the above and more?</em></p><p>MOVETRUE combines fundamental truths about the human body (principles of biomechanics) and simple movements anyone can do (classic bodyweight exercises with minimal equipment) to deliver a holistic fitness experience that will empower you to become a master of your body and take control of your life. MOVETRUE is about so much more than just building a great-looking body, it is about understanding and building a more intimate and joyous relationship with your body that will benefit you for the rest of your life. </p></div></div>",
-        "video": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4"
+        "video": "Placeholder.mp4"
     },
     {
         "id": 101,
@@ -25,7 +25,7 @@
         "hour": 12,
         "minute": 0,
         "description": "<h3 style='text-align:center'> Feet: Staying Grounded </h2></div></div> <p> Feet are on the ground. Staying on the ground is grounded. More stuff on feet </p>",
-        "video": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4"
+        "video": "Placeholder.mp4"
     },
     {
         "id": 102,
@@ -39,7 +39,7 @@
         "hour": 12,
         "minute": 0,
         "description": "<h3 style='text-align:center'> Legs: Beauty and Strength </h2></div></div> <p> Legs can be strong. Legs can be beautiful. Legs can be beautiful and strong </p>",
-        "video": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4"
+        "video": "Placeholder.mp4"
     },
     {
         "id": 201,
@@ -53,7 +53,7 @@
         "hour": 12,
         "minute": 0,
         "description": "FullBody workout on Jan 10 2022",
-        "video": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4"
+        "video": "Placeholder.mp4"
     },
     {
         "id": 301,
@@ -67,7 +67,7 @@
         "hour": 12,
         "minute": 0,
         "description": "Flexibility for beginner students",
-        "video": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4"
+        "video": "Placeholder.mp4"
     },
     {
         "id": 302,
@@ -81,7 +81,7 @@
         "hour": 12,
         "minute": 0,
         "description": "Flexibility for advanced students",
-        "video": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4"
+        "video": "Placeholder.mp4"
     },    {
         "id": 103,
         "category": "Seminar",
@@ -94,7 +94,7 @@
         "hour": 18,
         "minute": 30,
         "description": "Stuff about Old",
-        "video": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4"
+        "video": "Placeholder.mp4"
     },
     {
         "id": 202,
@@ -108,7 +108,7 @@
         "hour": 12,
         "minute": 0,
         "description": "FullBody workout on Jan 20 2022",
-        "video": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4"
+        "video": "Placeholder.mp4"
     }
 
 ]
